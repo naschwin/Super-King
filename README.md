@@ -1,3 +1,3 @@
 # Super-King
-
-Game Made Using pure Java.
+Simple Platformer.
+Game Made using Java.
